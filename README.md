@@ -1,7 +1,7 @@
 # Kaggle_Competition
 
-Competition- House Price - Advanced Regresssion Techniques
-Data set used - Ames Housing dataset
+- Competition- House Price - Advanced Regresssion Techniques
+- Data set used - Ames Housing dataset
 
 # Brief Notebook Explanation
 
