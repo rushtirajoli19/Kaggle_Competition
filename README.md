@@ -7,6 +7,6 @@
 
 - Performed Extreme Gradient boosting(XGBOOST) to predict house pricing with one of the feature selection algorithm called "Boruta", which produced 90% Accuracy.
 - Data Preprocessing steps are
-      Ordinal Feature Encoding, 
-      Nominal Feature Engineering,
-      Feature Hashing (MurMurhash3)
+     - Ordinal Feature Encoding, 
+     - Nominal Feature Engineering,
+     - Feature Hashing (MurMurhash3)
